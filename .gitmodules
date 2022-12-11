@@ -1,0 +1,6 @@
+[submodule "invitation-handler-backend"]
+	path = invitation-handler-backend
+	url = https://github.com/chardinventura/invitation-handler-backend
+[submodule "invitation-handler-frontend"]
+	path = invitation-handler-frontend
+	url = https://github.com/chardinventura/invitation-handler-frontend
